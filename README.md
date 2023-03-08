@@ -1,3 +1,4 @@
+
 def DeleteContact():
     name = input('Enter name: ')
     found = False
